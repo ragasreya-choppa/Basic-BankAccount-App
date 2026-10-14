@@ -4,6 +4,7 @@
 This is a simple console-based bank account application built using Java. 
 It allows users to deposit money into and withdraw money from a bank account while keeping track of the current balance.
 This project was created to practice Java concepts, especially Classes, Objects, Encapsulation and Methods
+
 Features:-
 * Stores account holder name and balance
 * Deposits money into the account
