@@ -1,4 +1,5 @@
 🏦Bank Account Practice-
+
 🧾Description-
 This is a simple console-based bank account application built using Java. 
 It allows users to deposit money into and withdraw money from a bank account while keeping track of the current balance.
@@ -9,10 +10,12 @@ Features:-
 * Withdraws money from the account
 * Displays the current account balance
 * Validates deposit and withdrawal amounts
+
 Technologies Used:-
 * Java
 * Scanner Class
 * Object Oriented Programming
+
 ⭐Concepts Practiced:-
 * Classes and Objects
 * Constructors
@@ -22,6 +25,7 @@ Technologies Used:-
 * Methods
 * Conditional Statements (if-else)
 * User Input using Scanner
+
 🟣Purpose:-
 The purpose of this project is to strengthen my understanding of Java fundamentals
 and practice object-oriented programming through a simple real-world example.
